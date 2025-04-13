@@ -13,6 +13,5 @@ The analysis includes job distribution, skills demand, salary trends, remote wor
 - Clean and structured queries with real-world use cases
 
 ## 🛠️ Tech Stack
-![Made with SQL](https://img.shields.io/badge/Made%20with-SQL-1f425f.svg?style=for-the-badge)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Made with SQL](https://img.shields.io/badge/Made%20with-SQL-1f425f.svg?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
