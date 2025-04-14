@@ -26,6 +26,8 @@ The analysis includes job distribution, skills demand, salary trends, remote wor
    - Principal Data Analyst – $186,000 (SmartAsset)
    - ERM Data Analyst – $184,000 (Get It Recruit – IT)
 2. SQL is the most in-demand skill required in the top 10 highest-paying Data Analyst jobs (as analyzed in question 1), followed by Python and Tableau, while other skills like R, Snowflake, Pandas, and Excel show varying levels of demand.
+3. Top 5 in-demand skills for data analysts: 1. SQL 2. Excel 3. Python 4. Tableau 5. Power BI  
+   The top five in-demand skills for data analysts—SQL, Excel, Python, Tableau, and Power BI—reflect the need for professionals who can not only extract and manipulate data but also effectively communicate insights through powerful visualizations.
 
 ## 🛠️ Tech Stack
 
