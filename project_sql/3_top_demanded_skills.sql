@@ -15,6 +15,7 @@ INNER JOIN skills_job_dim AS sj
 INNER JOIN skills_dim AS s
     ON sj.skill_id = s.skill_id
 WHERE j.job_title_short = 'Data Analyst'
+      AND job_work_from_home = TRUE
 GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 5;
